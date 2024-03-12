@@ -105,9 +105,9 @@
     "allurl": "https://drive.google.com/drive/"
   },
   {
-    "appname": "Twitch",
-    "applogo": "https://i.postimg.cc/CxPFdNCj/thwich-min.png",
-    "url": "https://www.twitch.com/"
+    "allappname": "Twitch",
+    "allappimage": "https://i.postimg.cc/CxPFdNCj/thwich-min.png",
+    "allurl": "https://www.twitch.com/"
   },
   {
     "allappname": "Google Forms",
@@ -225,9 +225,9 @@
     "allurl": "https://drive.google.com/drive/"
   },
   {
-    "appname": "Snapchat",
-    "applogo": "https://i.postimg.cc/3N4rHD0g/snapshort.png",
-    "url": "https://web.snapchat.com/"
+    "allappname": "Snapchat",
+    "allappimage": "https://i.postimg.cc/3N4rHD0g/snapshort.png",
+    "allurl": "https://web.snapchat.com/"
   },
   {
     "allappname": "Amazon Prime Video",
@@ -235,9 +235,9 @@
     "allurl": "https://drive.google.com/drive/"
   },
   {
-    "appname": "Pinterest",
-    "applogo": "https://i.postimg.cc/4yN42SsF/printrest.png",
-    "url": "https://www.pinterest.com/"
+    "allappname": "Pinterest",
+    "allappimage": "https://i.postimg.cc/4yN42SsF/printrest.png",
+    "allurl": "https://www.pinterest.com/"
   },
   {
     "allappname": "Booking.com",
@@ -300,23 +300,23 @@
     "allurl": "https://drive.google.com/drive/"
   },
   {
-    "appname": "Signal",
-    "applogo": "https://i.postimg.cc/SNRCJZCr/signal-min.jpg",
-    "url": "https://www.signal.org/"
+    "allappname": "Signal",
+    "allappimage": "https://i.postimg.cc/SNRCJZCr/signal-min.jpg",
+    "allurl": "https://www.signal.org/"
   },
   {
-    "appname": "LinkedIn",
-    "applogo": "https://i.postimg.cc/xTMpFTph/linkdin-min.png",
-    "url": "https://www.linkedin.com/"
+    "allappname": "LinkedIn",
+    "allappimage": "https://i.postimg.cc/xTMpFTph/linkdin-min.png",
+    "allurl": "https://www.linkedin.com/"
   },
   {
-    "appname": "WeChat",
-    "applogo": "https://i.postimg.cc/h4d0S4Wr/wechat-min.jpg",
-    "url": "https://web.wechat.com/"
+    "allappname": "WeChat",
+    "allappimage": "https://i.postimg.cc/h4d0S4Wr/wechat-min.jpg",
+    "allurl": "https://web.wechat.com/"
   },
   {
-    "appname": "WhatsApp",
-    "applogo": "https://i.postimg.cc/x1tvscM0/whatsapp-min.png",
-    "url": "https://web.whatsapp.com/"
+    "allappname": "WhatsApp",
+    "allappimage": "https://i.postimg.cc/x1tvscM0/whatsapp-min.png",
+    "allurl": "https://web.whatsapp.com/"
   }
 ]
