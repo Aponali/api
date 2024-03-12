@@ -1,297 +1,322 @@
 [
   {
     "allappname": "Google",
-    "allappimage": "https://i.postimg.cc/yY5y3BVt/google.png",
+    "allappimage": "https://i.postimg.cc/cH7NSMFy/google-min.png",
     "allurl": "https://google.com/"
   },
   {
     "allappname": "Youtube",
-    "allappimage": "https://i.postimg.cc/pdGzqLBP/youtube.png",
+    "allappimage": "https://i.postimg.cc/pTnKXC7T/youtube-min.png",
     "allurl": "https://www.youtube.com/"
   },
   {
     "allappname": "Facebook",
-    "allappimage": "https://i.postimg.cc/tgZv3whv/facebook.png",
+    "allappimage": "https://i.postimg.cc/L8GDVd2v/facebook-min.png",
     "allurl": "https://www.facebook.com/"
   },
   {
     "allappname": "Instagram",
-    "allappimage": "https://i.postimg.cc/4x3Sdmng/instragram.png",
+    "allappimage": "https://i.postimg.cc/SKqrP6Yz/instragram-min.png",
     "allurl": "https://www.instagram.com/?hl=en"
   },
   {
     "allappname": "Twitter",
-    "allappimage": "https://i.postimg.cc/KvPcmpwT/th-3302419828-removebg-preview.png",
+    "allappimage": "https://i.postimg.cc/ydfhb20D/twiter.png",
     "allurl": "https://twitter.com/"
   },
   {
     "allappname": "Discord",
-    "allappimage": "https://i.postimg.cc/0yMyLGDM/discord.png",
+    "allappimage": "https://i.postimg.cc/t4GGvcqR/discord-min.png",
     "allurl": "https://www.discord.com/"
   },
   {
     "allappname": "Reddit",
-    "allappimage": "https://i.postimg.cc/XvdmMtpG/reddit.png",
+    "allappimage": "https://i.postimg.cc/BZcMxw8f/reddit-min.png",
     "allurl": "https://www.reddit.com/"
   },
   {
     "allappname": "Telegram",
-    "allappimage": "https://i.postimg.cc/7YGPjYMK/th-3473616530-removebg-preview.png",
+    "allappimage": "https://i.postimg.cc/XqSN4Yfm/telegram.png",
     "allurl": "https://web.telegram.org/"
   },
   {
     "allappname": "Spotify",
-    "allappimage": "https://i.postimg.cc/yxRpkNM1/sptify.png",
+    "allappimage": "https://i.postimg.cc/Dm3hkpTT/sptify-min.png",
     "allurl": "https://open.spotify.com/"
   },
   {
     "allappname": "Netflix",
-    "allappimage": "https://i.postimg.cc/jjRctcqS/netfilx.png",
+    "allappimage": "https://i.postimg.cc/HLq7KHhv/netfilx-min.png",
     "allurl": "https://www.netflix.com/"
   },
   {
     "allappname": "TikTok",
-    "allappimage": "https://i.postimg.cc/7hCFfhKh/tictok.png",
+    "allappimage": "https://i.postimg.cc/T2CNz4Tq/tictok-min.png",
     "allurl": "https://www.tiktok.com/"
   },
   {
     "allappname": "Amazon",
-    "allappimage": "https://i.postimg.cc/rpys80Bk/amazon.png",
+    "allappimage": "https://i.postimg.cc/RVzgkxHY/amazon-min.png",
     "allurl": "https://www.amazon.com/"
   },
   {
     "allappname": "Gmail",
-    "allappimage": "https://i.postimg.cc/qMQWPNxn/gmail.png",
+    "allappimage": "https://i.postimg.cc/3Jd2fLLq/gmail-min.png",
     "allurl": "https://mail.google.com/mail/"
   },
   {
     "allappname": "Google Maps",
-    "allappimage": "https://i.postimg.cc/SQVhh1yJ/map.png",
+    "allappimage": "https://i.postimg.cc/QM4fWBV9/map-min.png",
     "allurl": "https://www.google.com/maps"
   },
   {
     "allappname": "Uber",
-    "allappimage": "https://i.postimg.cc/QxpnDHgS/ubar.jpg",
+    "allappimage": "https://i.postimg.cc/CK7bR9Pc/ubar-min.jpg",
     "allurl": "https://www.uber.com/"
   },
   {
     "allappname": "Google Drive",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/MTgfCw3r/googledrive-min.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Skype",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/13xXsMH4/skyoe.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Google Calendar",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/PJKvVDZT/calender.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Google Docs",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/YCxghJjh/googledocs.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Google Sheets",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/vZnqk8PC/googlesheet.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Google Slides",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/xd2wPpGr/googleslider.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
+    "appname": "Twitch",
+    "applogo": "https://i.postimg.cc/CxPFdNCj/thwich-min.png",
+    "url": "https://www.twitch.com/"
+  },
+  {
     "allappname": "Google Forms",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/Vk7vy1dB/googlefrom.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Google Meet",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/cHGN25MB/googlemeet.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Google Hangouts",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/BvLqdFW4/Google-Hangouts.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Google Keep",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/gkgmjsmG/googlekeep.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Google Photos",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/C5vXhvDt/googlephoto.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Google Translate",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/TPVCCkkb/transletor.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Google News",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/mgcfDGmS/googlenews.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Google Contacts",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/vBZsL6QW/contrach.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Google Tasks",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/5yGgKD8x/googletask.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Google Earth",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/RZG6MKbt/googleearth.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Google Classroom",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/vT8cnmKj/calssroom.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Google Ads",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/90Swjhxn/googleads.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Google Play Music",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/Rh5K3f5T/youtubeplay.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Google Pay",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/N0DzksfT/gpay.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Google Scholar",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/Z5v2mxq7/google-Scholar.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Google Duo",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/PrH1TmMX/zoom.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Google Firebase",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/MpfbHsVB/firebase.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Google Colab",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/LX2XdXmX/colab.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Trello",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/jqgvgnhM/Trello.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Notion",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/7ZcCGwwP/notion.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Slack",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/vH5g1pD5/stack.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Google Chat",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/d1NL8FKV/googlechat.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Disney+",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/26KPQc9D/disneyp.png",
     "allurl": "https://drive.google.com/drive/"
+  },
+  {
+    "appname": "Snapchat",
+    "applogo": "https://i.postimg.cc/3N4rHD0g/snapshort.png",
+    "url": "https://web.snapchat.com/"
   },
   {
     "allappname": "Amazon Prime Video",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/0y6jqFmT/primevideo.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
+    "appname": "Pinterest",
+    "applogo": "https://i.postimg.cc/4yN42SsF/printrest.png",
+    "url": "https://www.pinterest.com/"
+  },
+  {
     "allappname": "Booking.com",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/L5SjbRbB/bookingcom.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Expedia",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/m2X8tznv/expedia.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Khan Academy",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/mrbYjTKY/khanacademy.jpg",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Codecademy",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/KvHRKxDq/codecademy.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Duolingo",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/mZcr00s7/duolingo.jpg",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Udacity",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/t4H6298r/udacity.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Skillshare",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/wxG3b9RX/skillshare.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "MasterClass",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/s2XcyVKV/masterclass.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "eBay",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/TPSzmN4X/ebay.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "Walmart",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/g0tK0n2M/wallmart.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "AliExpress",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/43Xwm65Q/aliexpress.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "allappname": "YouTube TV",
-    "allappimage": "https://i.postimg.cc/R08WXCYx/googledrive.png",
+    "allappimage": "https://i.postimg.cc/rpHSk3f3/youtube.png",
     "allurl": "https://drive.google.com/drive/"
   },
   {
     "appname": "Signal",
-    "applogo": "https://i.postimg.cc/mkCGmhCq/signal.jpg",
+    "applogo": "https://i.postimg.cc/SNRCJZCr/signal-min.jpg",
     "url": "https://www.signal.org/"
   },
   {
     "appname": "LinkedIn",
-    "applogo": "https://i.postimg.cc/jdTVsxzx/linkdin.png",
+    "applogo": "https://i.postimg.cc/xTMpFTph/linkdin-min.png",
     "url": "https://www.linkedin.com/"
+  },
+  {
+    "appname": "WeChat",
+    "applogo": "https://i.postimg.cc/h4d0S4Wr/wechat-min.jpg",
+    "url": "https://web.wechat.com/"
+  },
+  {
+    "appname": "WhatsApp",
+    "applogo": "https://i.postimg.cc/x1tvscM0/whatsapp-min.png",
+    "url": "https://web.whatsapp.com/"
   }
 ]
