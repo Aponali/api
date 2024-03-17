@@ -318,5 +318,10 @@
     "allappname": "WhatsApp",
     "allappimage": "https://i.postimg.cc/x1tvscM0/whatsapp-min.png",
     "allurl": "https://web.whatsapp.com/"
+  },
+  {
+    "allappname": "Messager",
+    "allappimage": "https://i.postimg.cc/x1tvscM0/whatsapp-min.png",
+    "allurl": "https://www.facebook.com/messages/"
   }
 ]
