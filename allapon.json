@@ -190,11 +190,6 @@
     "allurl": "https://meet.google.com/"
   },
   {
-    "allappname": "Firebase",
-    "allappimage": "https://i.postimg.cc/MpfbHsVB/firebase.png",
-    "allurl": "https://firebase.google.com/"
-  },
-  {
     "allappname": "Google Colab",
     "allappimage": "https://i.postimg.cc/LX2XdXmX/colab.png",
     "allurl": "https://colab.research.google.com/"
